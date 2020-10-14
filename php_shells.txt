@@ -432,7 +432,6 @@ confih-wordpress.php
 zacosmall.php
 zeta.php
 yeizeta.php
-zacosmall.php
 teamhacker.php
 hackerarmy.php
 HackersArmy.php
@@ -521,7 +520,6 @@ images/fuck.php
 images/fucking.php
 images/lol.php
 images/l0l.php
-images/fenix.php
 images/backdoor.php
 images/backshell.php
 images/x.php
@@ -539,9 +537,7 @@ images/symlink.php
 images/root.php
 images/rooting.php
 images/xtremecrip.php
-images/fenix.php
 images/fenixshell.php
-images/config.php
 images/system.php
 media/system.php
 media/shell.php
@@ -566,9 +562,7 @@ media/0.php
 media/symlink.php
 media/root.php
 media/xtremecrip.php
-media/fenix.php
 edia/fenixshell.php
-media/system.php
 media/sym.php
 administrator/system.php
 administrator/shell.php
@@ -878,7 +872,6 @@ wp-includes/fuck.php
 wp-includes/fucking.php
 wp-includes/phoenix.php
 wp-includes/x.php
-wp-includes/lol.php
 wp-includes/xd.php
 wp-includes/xxx.php
 wp-includes/pwned.php
