@@ -447,7 +447,6 @@ explicit_not_exist_path
 ext/ma/scripts/setup.php
 f842010a96130bd22bef8bc32cac4415.php
 faq.php
-favicon.ico
 feed/atom/
 feed/rdf/
 Fhgcv/
