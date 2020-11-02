@@ -777,7 +777,6 @@ system
 subscriptions
 mod/
 messages/
-index.html
 day
 User/
 videos/
@@ -788,7 +787,6 @@ player/html.php
 player/float.php
 forum/profile.php
 feedback
-favicon.ico
 about
 .git/
 unsubscribe
@@ -3285,7 +3283,6 @@ logoff.php
 lang
 invoice/
 invites/
-index.htm
 imprint
 i
 history/
