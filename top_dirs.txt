@@ -1840,7 +1840,6 @@ software/
 seccode.php
 script
 rules
-robots.txt
 results/
 postinfo.html
 password.php

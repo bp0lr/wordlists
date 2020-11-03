@@ -1204,7 +1204,6 @@ register.php?mlvl=-1
 rentime/log/202005/21.log
 ReportServer
 requested.html
-robots.txt
 rom-0
 root.php
 root11.php
