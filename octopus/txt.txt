@@ -2,7 +2,6 @@ cron.txt
 results.txt
 settings.txt
 abc.txt
-robots.txt
 event.txt
 version.txt
 blank.txt
@@ -4623,7 +4622,6 @@ mess.txt
 project_rzkihsap.txt
 settings-gear-65.txt
 albumler0414286581141510230231454765.txt
-Robots.txt
 fontsgoogleapi.txt
 5ee279c87a13f7830ce62903_3D_C.glb.txt
 tree-02.txt

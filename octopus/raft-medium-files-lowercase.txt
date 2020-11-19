@@ -99,7 +99,6 @@ contact.php
 ucp.php
 index2.php
 login.html
-favicon.ico
 common.php
 home.php
 footer.php
@@ -234,7 +233,6 @@ goods_script.php
 index.cfm
 terms.html
 404.htm
-robots.txt
 forumdisplay.php
 tags.php
 test.html
@@ -3709,7 +3707,6 @@ extrastree.php
 f.php
 facebook.html
 facebook.jsp
-favicon.gif
 feature.php
 features.php
 feedback.cfm
@@ -9329,7 +9326,6 @@ faq.xhtml
 faq2.htm
 faq2.php
 fastphp.ini
-favico.ico
 favoris.htm
 favorite.asp
 favorites.cfm
@@ -10271,7 +10267,6 @@ ricerca.html
 rights.html
 rma_step1.php
 robot.php
-robot.txt
 robox.php
 rollover.js
 roof.html
