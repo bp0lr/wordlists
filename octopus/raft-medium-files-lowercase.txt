@@ -145,7 +145,6 @@ referrers.php
 login.asp
 error_message.php
 logout.php
-.htaccess
 giftcert.php
 out.php
 comment.php
@@ -159,7 +158,6 @@ admin_index.php
 ssl_check.php
 contact_us.html
 avatar.php
-style.css
 payment_gateway.php
 search.asp
 icon.php
@@ -460,7 +458,6 @@ send_order.php
 logout.aspx
 productdetails.asp
 thankyou.php
-styles.css
 giftoptions.asp
 ask_a_question.php
 donate.asp
@@ -509,7 +506,6 @@ news.html
 post_thanks.php
 r.php
 ranks.php
-stylesheet.css
 thanks.php
 .html
 contactus.php
@@ -583,7 +579,6 @@ contactus.html
 faq.htm
 file.php
 portal.php
-.smileys
 functions.php
 login.htm
 pbcsad.dll
@@ -624,7 +619,6 @@ bonuses.php
 datenschutz.html
 pw_api.php
 secure_login.php
-.css
 500.htm
 about_us.html
 minicart.php
@@ -642,7 +636,6 @@ popup.php
 popup_info.php
 privacypolicy.html
 wap.asp
-.hcc.thumbs
 manufacturers.php
 top.inc.php
 about.htm
@@ -674,7 +667,6 @@ index3.html
 products_new.html
 terms.htm
 welcome.html
-.js
 .png
 ads.php
 cmpi_popup.php
@@ -710,7 +702,6 @@ story.php
 viewthread.php
 counter.php
 guestbook.php
-please.
 send_pwd.php
 formmail.php
 index1.php
@@ -760,7 +751,6 @@ default_logo.gif
 disclaimer.htm
 getout.php
 glance_config.php
-main.css
 news.asp
 ningbar.php
 shipquote.asp
@@ -790,7 +780,6 @@ meta_tags.html
 new.html
 registration.html
 specials.html
-swfobject.js
 broken_link.php
 copyright.html
 help_answer.asp
@@ -899,7 +888,6 @@ request.php
 userlist.php
 forgotpassword.aspx
 admin_banner.php
-default.css
 ehdaa.php
 export.php
 flow.php
@@ -976,7 +964,6 @@ suche.html
 wide_search.html
 500.aspx
 install.x-affiliate
-install.x-offers
 thumbs.db
 atom.xml
 bnnr.php
@@ -1134,7 +1121,6 @@ apc.php
 awards.php
 c_custom.asp
 c_option.asp
-css.css
 down.php
 inscription.php
 logout.cfm
@@ -1179,7 +1165,6 @@ go.asp
 listing.php
 photos.php
 profiles.php
-scripts.js
 terms-of-use.html
 welcome.php
 xanario_wartung.php
@@ -1208,7 +1193,6 @@ addressedit.aspx
 admin.htm
 ads.html
 affiliate_faq.php
-animate.js
 best-sales.php
 blog_post.php
 buy.html
@@ -1286,7 +1270,6 @@ mailer.php
 member-home.html
 member-home.php
 menu.htm
-menu.js
 messaging.html
 private.asp
 product.aspx
@@ -1315,7 +1298,6 @@ password.asp
 popup.html
 popup_songs.php
 post.html
-rating_over.
 receiver.php
 reset.html
 sitedown.php
@@ -1346,7 +1328,6 @@ history.html
 media.php
 more.php
 newsrss.php
-print.css
 register.htm
 searchtools-rss.xml
 share_video.php
@@ -1434,7 +1415,6 @@ remano_xanario.php
 remind.html
 remove.php
 reorder_pdf.php
-script.js
 support.htm
 testimonials.htm
 tiki-likepages.php
@@ -1550,7 +1530,6 @@ cpanel.html
 error.jsp
 error500.html
 extern.php
-global.css
 htaccess.txt
 index_test.html
 intro.html
@@ -1611,7 +1590,6 @@ jobs.html
 link_display.php
 m10.html
 maps.php
-mm_menu.js
 notfound.php
 password.html
 popup_image.html
@@ -1623,7 +1601,6 @@ search-results.aspx
 security.php
 shipping.asp
 showmembers.php
-siteopt.js
 sms.php
 subcription.php
 up.php
@@ -1631,11 +1608,9 @@ update.asp
 upload.html
 view_video.php
 vote.asp
-www.
 .mp3
 404.jsp
 cart.bok
-__utm.js
 account.asp
 active_users.asp
 advanced-cache.php
@@ -1651,7 +1626,6 @@ confirmation.aspx
 contact_form.php
 delorie.htm
 email.cgi
-function.
 get_strings.php
 index.rdf
 index.swf
@@ -1743,8 +1717,6 @@ welcome.htm
 whatever.html
 .cpanel
 .htm
-.settings
-.status
 15.html
 22.html
 4.0
@@ -1791,7 +1763,6 @@ filter.php
 forum.asp
 goto.asp
 invite_friends.php
-jquery.js
 magic.php
 panel.php
 passwort.php
@@ -1948,7 +1919,6 @@ error500.htm
 forward.php
 fs_menu.html
 functions.asp
-functions.js
 gss.xsl
 include.php
 index2.cfm
@@ -1997,7 +1967,6 @@ update.html
 uu_conlib.php
 uu_file_upload.php
 viewbasket.html
-.htpasswds
 .jsp
 .rar
 1.4
@@ -2048,7 +2017,6 @@ imprimir.php
 ipinfo.php
 katalog.php
 landing.php
-layout.css
 links2.php
 logos.php
 lost-password.html
@@ -2078,7 +2046,6 @@ session_expired.jsp
 share.aspx
 signup.asp
 sitemap.txt
-style2.css
 test1.html
 toolbar.php
 uacp.php
@@ -2129,7 +2096,6 @@ forgot-password.php
 forgot.asp
 forgot.html
 form.htm
-fphover.class
 fts.php
 getfile.php
 homepage.php
@@ -2237,7 +2203,6 @@ forumseocp.php
 friends.html
 game.php
 gb.php
-general.js
 getimage.php
 gg.php
 google.html
@@ -2310,7 +2275,6 @@ vbgooglemapme.php
 website.html
 wishlist_public.php
 xtbcallback.php
-.stats
 2.1
 2.14
 25.html
@@ -2320,7 +2284,6 @@ xtbcallback.php
 8.1a
 additem.aspx
 click.aspx
-default.aspx.cs
 licenses.php
 tellafriend.aspx
 v2.9
@@ -2353,14 +2316,12 @@ faqs.htm
 feedback_ajax.php
 flash.swf
 form2.php
-fphoverx.class
 gallery.aspx
 gallery.htm
 gift.html
 helpdesk.php
 html.php
 index-install.php
-index.css
 index.php5
 indexnew.html
 inquiry.php
@@ -2426,7 +2387,6 @@ xp_publish.php
 3.50
 34.html
 4.htm
-additem.wws
 gethits.asp
 logon.aspx
 page.aspx
@@ -2451,7 +2411,6 @@ buscador.php
 c.html
 cache.aspx
 calc.php
-calendar.js
 cgv.php
 clone_check.php
 command.php
@@ -2560,7 +2519,6 @@ wpmu-settings.php
 zakaz.php
 .admin
 .axd
-.xls
 0.9
 28.html
 404b.htm
@@ -2586,7 +2544,6 @@ autocomplete.php
 awards.html
 bottom.php
 busca.php
-cart.
 ccbyfax_form.php
 clients.php
 cmd.php
@@ -2595,7 +2552,6 @@ complete.php
 data.txt
 database.php
 datasheet.php
-date.js
 day.php
 default.cfm
 dialog_1.htm
@@ -2619,10 +2575,8 @@ header.swf
 holdsession.php
 iclear.php
 index-new.php
-index.
 ipcheak.php
 itunes.php
-javascript.js
 join.asp
 journal.php
 left.php
@@ -2640,7 +2594,6 @@ m7_view_order.html
 m7_wallet.html
 m7_wish_list.html
 mailus.asp
-menu.css
 navigation.php
 nddbc.html
 newsdesk_info.php
@@ -2657,7 +2610,6 @@ poisk.html
 policies.asp
 popup_add_image.php
 postcards.php
-pphlogger.js
 pravo.html
 price_match.php
 print.htm
@@ -2678,7 +2630,6 @@ searchnew.php
 security.htm
 shop.aspx
 showframe.php
-site.css
 sitemapindex.xml
 sorry.htm
 spider.php
@@ -2709,7 +2660,6 @@ warranty.htm
 watched_topics.php
 .awstats-data
 .mc
-.samples
 1.1c
 129.html
 2257.htm
@@ -2777,7 +2727,6 @@ editpics.php
 elmar_shopinfo.php
 email_friend.asp
 emails.php
-embed.js
 employment.htm
 enviar.php
 errorpage.php
@@ -2848,7 +2797,6 @@ people.php
 php.php
 playlist.php
 points.php
-popup.js
 popup2.html
 popup_etra_help.php
 popup_index.php
@@ -2886,7 +2834,6 @@ s01_b.php
 s01_rat.php
 sample.php
 schedule.php
-search.
 search1.php
 searchresult.asp
 searchresult.php
@@ -2906,7 +2853,6 @@ stats.asp
 status.aspx
 stock.php
 stock_notify.php
-style1.css
 submitticket.php
 subscribe.asp
 syndication.php
@@ -2972,10 +2918,8 @@ writereview.aspx
 _bsptp.cfm
 _config.php
 about-me.html
-account.
 account.htm
 activity.php
-ad.js
 add_favour.php
 add_product.php
 addentry.php
@@ -3005,14 +2949,12 @@ catalog.aspx
 cgu.html
 changepass.asp
 check.html
-checkout.
 checkout2.asp
 checkout_fax.php
 class.php
 clean.php
 click.cgi
 clickcount.php
-common.js
 confirm.htm
 contactswc.cfm
 contatti.php
@@ -3088,7 +3030,6 @@ invite_members.php
 invite_signup.php
 item_update.html
 itit-myoffice.html
-java.js
 json.php
 jsspecial.php
 kindeditor.php
@@ -3150,7 +3091,6 @@ pdf_downloads.php
 piceditor.php
 plpl-myoffice.html
 plugins.php
-pngfix.js
 poisk.php
 policy.htm
 poll_success.php
@@ -3161,7 +3101,6 @@ post_info.asp
 postings.cgi
 pp.asp
 price.htm
-price.xls
 prices.php
 print.bsp
 print_beleg.php
@@ -3296,7 +3235,6 @@ advsearch.html
 agreement.php
 ahnentafel.php
 ajax.html
-ajax.js
 ajaxpost.asp
 album_page.php
 all.html
@@ -3347,7 +3285,6 @@ csshover.htc
 customer.html
 cv_rss_feeds.php
 cvv.html
-data.files
 db.asp
 demandware.store
 demo.aspx
@@ -3368,7 +3305,6 @@ ext.php
 fanchart.php
 favorites.html
 fb_personalize.php
-feed.rss
 feedback.xhtml
 fiche.php
 file.html
@@ -3435,7 +3371,6 @@ market.php
 master.dwt
 member_profile.asp
 members.aspx
-menu_com.js
 modlink.php
 mon_compte.php
 moreinfo.asp
@@ -3456,7 +3391,6 @@ oops.htm
 oops.html
 orderform.php
 out.html
-overlib.js
 p.html
 page.htm
 partners.asp
@@ -3483,7 +3417,6 @@ prices.html
 print_article.php
 privacy_policy.asp
 proc.php
-profile.
 progress.html
 promo.asp
 provider.asp
@@ -3545,14 +3478,12 @@ supercron.php
 survey.htm
 system.php
 t.html
-tabs.css
 tagcloud.swf
 tellafriend.html
 temp.htm
 term_of_use.html
 test3.html
 testimonials.aspx
-text.css
 ticket_create.php
 tisk_clanku.php
 top_rated.php
@@ -3650,7 +3581,6 @@ back.php
 banners.asp
 blog.aspx
 blog_tag.php
-blue.css
 boost.php
 browse.cfm
 browselinks.php
@@ -3659,7 +3589,6 @@ browser.asp
 browsetrees.php
 cal.php
 calculator.aspx
-calendar.css
 cannedreplies.php
 career.htm
 catalogue.php
@@ -3746,7 +3675,6 @@ index_dev.php
 info_descr.php
 information.asp
 input.php
-installer.css
 j.php
 javascript.php
 jquery.fancybox
@@ -3786,7 +3714,6 @@ movies.php
 mssccprj.scc
 my.html
 mycookies.php
-news.js
 news.txt
 news_list.php
 no-such-url.html
@@ -3797,7 +3724,6 @@ notice.html
 noticias.php
 odp.php
 oops.aspx
-open_pub.js
 order1.html
 ordering.html
 other.html
@@ -3828,7 +3754,6 @@ privatesend.asp
 product_info.html
 profile.cgi
 profile.jsp
-prototype.js
 ptpic.php
 publicidad.html
 publish.php
@@ -3866,7 +3791,6 @@ schedule.html
 scrape.php
 send_email.php
 sendlink.cfm
-sh.
 shopcheckout.asp
 shopemptycart.asp
 shoppingbasket.aspx
@@ -3886,7 +3810,6 @@ sp.php
 spanish.php
 sql.php
 start_cache.php
-stat.js
 stat_details.php
 statistik.php
 status.htm
@@ -3910,7 +3833,6 @@ uppod.swf
 user_contact.php
 users.htm
 v.php
-vb.sponsors
 video.htm
 viewimage.php
 viewer.swf
@@ -3937,9 +3859,7 @@ zobrazeni.php
 .config
 .exe
 .gitignore
-.logs
 .sqmaildata
-.thumbs
 103.html
 113.html
 118.html
@@ -3961,7 +3881,6 @@ zobrazeni.php
 2c_notify.asp
 2c_payment.asp
 2c_return.asp
-33543.js
 38.html
 4.21
 4008.asp
@@ -4122,7 +4041,6 @@ form1.html
 forum2.php
 foto.html
 friend.asp
-function.array-keys
 function.implode
 function.in-array
 gab_redirect.php
@@ -4146,12 +4064,10 @@ guide.php
 gymrss.php
 handleoptin.htm
 head.html
-header.js
 header.jsp
 header2.php
 heightsearch.php
 help.cfm
-help.html.
 help_options.asp
 hot.php
 hotels.php
@@ -4338,7 +4254,6 @@ testimonial.html
 thumbnail.asp
 tips.html
 title.html
-top.js
 tp_in.php
 tr.php
 track.asp
@@ -4355,8 +4270,6 @@ update_user.php
 ups.htm
 uptime.txt
 validator.php
-valide_abo.js
-valide_tel.js
 viewcat.php
 viewgiftcert.cfm
 vieworderprint.cfm
@@ -4456,7 +4369,6 @@ testpage.aspx
 unsere-agb.html
 user.aspx
 _drawrating.php
-_utm.js
 about.cfm
 accessdriver.cfm
 accessibility.html
@@ -4472,7 +4384,6 @@ add-service.html
 add_review.php
 addbookmark.action2
 addthis.php
-admin.css
 admin_users.php
 adout.php
 ads.htm
@@ -4505,12 +4416,10 @@ billing.php
 blog.asp
 blog.old
 bonus.html
-bookmark.js
 bookmarks.asp
 bookmarks.html
 bot.php
 bounce.php
-broken.
 browsephotos.php
 business.html
 busqueda.php
@@ -4557,7 +4466,6 @@ coupons.html
 credit.asp
 ct.aspx
 custpass.asp
-custom_js_footer.js
 customers.php
 deadlink.php
 deals.php
@@ -4615,7 +4523,6 @@ forgotpassword.asp
 formerror.html
 formrslt.htm
 forms.php
-fprotate.class
 fpw.php
 frameset.asp
 free_shipping.html
@@ -4624,7 +4531,6 @@ gateway.asp
 get-experience.html
 getorderinfo.php
 global.inc.php
-global.js
 glossary.aspx
 gm_gprint.js.php
 gm_gprint_ajax.php
@@ -4660,7 +4566,6 @@ items.asp
 jak-dodac-wpis.html
 javachat.php
 jobsearchpost.aspx
-jquery.min.js
 jump.asp
 keyword.php
 keywords.inc.php
@@ -4705,7 +4610,6 @@ music.html
 myads.php
 myads_send.php
 myprofile.php
-net.js
 no_registrado.php
 noflash.html
 o.html
@@ -4772,7 +4676,6 @@ rate_cgi.php
 rcheckout.php
 recform.php
 recherche.htm
-red.css
 references.html
 references.php
 remember.php
@@ -4810,7 +4713,6 @@ search_prod.html
 searching.php
 searchresult.html
 sec.html
-sec.js
 send.aspx
 send_pass.php
 sent.html
@@ -4819,7 +4721,6 @@ server-error.aspx
 servererror.php
 set_language.php
 setcookie.php
-sf.js
 shop.htm
 shopcart.aspx
 shopcart.php
@@ -4907,7 +4808,6 @@ werbung.php
 what.html
 wiki.php
 wp-cache-phase1.php
-wp-forum.phps
 xd_receiver.html
 y.html
 yshoppsearch.aspx
@@ -4916,7 +4816,6 @@ ztob.php
 .cpanel-datastore
 .filemanager
 .private
-.realms
 .spamassassin
 0.htm
 10.htm
@@ -5068,7 +4967,6 @@ award.php
 backlink.php
 bad.php
 banner_click.php
-basic.css
 batch.php
 become_editor.php
 benefits.htm
@@ -5126,7 +5024,6 @@ close.gif
 code.html
 comments.htm
 comp.php
-compare.ds
 conex.php
 connection.asp
 contact-form.html
@@ -5176,10 +5073,8 @@ ec_process.php
 edit.htm
 editcontact.asp
 editor.htm
-editor.js
 element.php
 email-a-friend.php
-email.ds
 email_article.php
 email_friend.cfm
 email_listing.php
@@ -5194,7 +5089,6 @@ err404.php
 error_404.php
 error_message.cfm
 errors.aspx.vb
-estilos.css
 express.php
 f.html
 facts.html
@@ -5208,7 +5102,6 @@ film.php
 financing.asp
 firms.php
 flash.txt
-flashobject.js
 footer.shtml
 form.cgi
 form.pdf
@@ -5217,7 +5110,6 @@ forum1.php
 forum_posts.asp
 forward.html
 fp.php
-fprotatx.class
 fr.cfm
 frames.html
 frameset.php
@@ -5240,7 +5132,6 @@ goto.aspx
 goto.html
 gourl.php
 gracias.html
-green.css
 group.html
 gtsearch.php
 guest.htm
@@ -5257,7 +5148,6 @@ honeypot.html
 host.php
 hotel.asp
 hotel2.php
-httpd.parse.errors
 id.php
 idmelden2.php
 image_upload.php
@@ -5265,10 +5155,8 @@ imagerotator.swf
 inc.asp
 index-5.html
 index-new.html
-index.files
 index.html.bak
 index.html.old
-index.js
 index.old
 index.shtm
 index0.html
@@ -5323,7 +5211,6 @@ links_info.cfm
 linkto.php
 loader.aspx
 loading.php
-login.
 login_and_go.html
 login_process.html
 loginbox.php
@@ -5343,15 +5230,12 @@ mailform.htm
 mailing.php
 maillist.php
 mails.php
-main.js
 mainbody.php
-mainstyle.css
 make_an_offer.php
 makethumb.php
 map.jsp
 mappa.php
 maps.htm
-mapsearch.ds
 matchresult.htm
 media.htm
 member.asp
@@ -5368,7 +5252,6 @@ models.php
 moderate.asp
 modify.asp
 move.php
-msg.
 mtview.php
 myaccount.cfm
 myobxfavorites.asp
@@ -5404,7 +5287,6 @@ orders.html
 ordlist.asp
 ordstatus.asp
 other.htm
-outline.js
 overview.html
 page-3.html
 page.restrictor.php
@@ -5537,10 +5419,8 @@ showcategory.aspx
 showlog.php
 showmap.php
 showtopic.aspx
-silver.css
 single.php
 site-policies.html
-site.js
 sitemap1.xml
 sitemapproducts.xml
 slideshow.swf
@@ -5555,7 +5435,6 @@ stats.aspx
 step3.php
 stop.html
 store.asp
-styles-site.css
 styles.php
 submit2.php
 submitorder.aspx
@@ -5603,8 +5482,6 @@ usercheckout.php
 userjoin.php
 useronline.php
 usersgroups.php
-validate.js
-validation.js
 validation_png.php
 vbookie.php
 vendors.html
@@ -5722,7 +5599,6 @@ zoom_pageinfo.zdat
 8572254.htm
 86.htm
 94.htm
-ac_oetags.js
 adminlogin.aspx
 application.pdf
 articleeditc.aspx
@@ -5776,7 +5652,6 @@ productreview.aspx
 promotedclick.aspx
 quickorder.aspx
 rebuild.aspx
-rebuild.aspx.cs
 redirectflight.jsp
 redirecthotel.jsp
 resellers.html
@@ -5805,7 +5680,6 @@ _info.php
 _process-email.cfm
 _setsitecookie.cfm
 _utm.gif
-a.
 a.htm
 aa.php
 abc.php
@@ -5875,7 +5749,6 @@ audio.html
 audiocaptcha.wav
 authorize.php
 auto.htm
-autotab.js
 avatar_legend.asp
 aviso.html
 avisolegal.htm
@@ -5897,7 +5770,6 @@ book3.asp
 book4.asp
 book5.asp
 booking.aspx
-brown.css
 buttons.php
 buy2.php
 buy_now.php
@@ -5936,7 +5808,6 @@ chatbox.php
 choose_cat.php
 cikis.php
 cl.asp
-cl.js
 clear.php
 clickcounter.php
 clickme.php
@@ -5991,7 +5862,6 @@ d.aspx
 dailyrate.x
 danke.htm
 data.asp
-data.js
 day.html
 db_connect.php
 de.html
@@ -6018,7 +5888,6 @@ disclosure.php
 discounts.php
 discuss.asp
 display.html
-displaymywww.ds
 document.php
 documents.htm
 doit.php
@@ -6088,7 +5957,6 @@ forgot_password.cfm
 forgotpass.html
 forgotpassword.htm
 form1.php
-format.css
 format.php
 forum.cgi
 forum.old
@@ -6100,10 +5968,8 @@ frei.php
 friends.htm
 frontend.php
 froogle.php
-funciones.js
 function.extract
 function.fread
-function.strpos
 g.asp
 gallery2.html
 games.asp
@@ -6135,7 +6001,6 @@ help-order2.html
 help-stock.html
 helpie5.htm
 helpie6.htm
-home.css
 home.nsf
 home.shtml
 home2.aspx
@@ -6144,8 +6009,6 @@ hotel-byname.jsp
 hotel.html
 hotellanding.jsp
 id.html
-ie.css
-iefix.js
 if.html
 image.ashx
 imagemagick-4.2.9
@@ -6280,14 +6143,12 @@ makeoffer.asp
 managecart.html
 manual.htm
 manufacturers.aspx
-mapdetailssearch.ds
 maps.asp
 markers.xml
 mb_notify.asp
 mb_payment.asp
 mb_return.asp
 mchat.php
-md5.js
 member_change.php
 member_footer.php
 member_header.php
@@ -6467,7 +6328,6 @@ recent_topics.asp
 recommend.asp
 recommend2.php
 recpassword.asp
-redhill.js
 referenzen.html
 referrals.php
 refinesearch.mi
@@ -6515,7 +6375,6 @@ scroller.cfm
 search-form.php
 search-listing.asp
 search-results.cfm
-search.js
 search.jspa
 search2.aspx
 searchfriend.jsp
@@ -6604,7 +6463,6 @@ store-closed.php
 store.aspx
 storepolicies.html
 stories.php
-styles2.css
 suborders.php
 subscription.html
 suggest.htm
@@ -6620,7 +6478,6 @@ terminos.html
 terminos.php
 terms.jsp
 terms_of_use.aspx
-test.js
 test.jsp
 test.xml
 test4.php
@@ -6697,7 +6554,6 @@ wanted.php
 web.htm
 webalizer.old
 webcam.php
-webceo.js
 webedit.mdb
 widerruf.html
 wishlist.htm
@@ -6715,7 +6571,6 @@ zz-error.php
 .archive
 .avi
 .data
-.domains
 .history
 .htaccess.bak
 .metadata
@@ -6828,7 +6683,6 @@ addreview.aspx
 addressbook.aspx
 appsettings.config
 asbestos.x
-assemblyinfo.cs
 bioskincare.php
 bioskinclear.php
 bioskinexfol.php
@@ -6846,7 +6700,6 @@ calctax.x
 cleansepatch.html
 comingsoon.aspx
 compare.jsp
-custom.templates
 customer.aspx
 customization.xml
 defibrillator.aspx
@@ -6863,7 +6716,6 @@ form-processor4.php
 formmail.cgi
 forum.aspx
 geoip.dat
-global.asax.cs
 hiiacodeofethics.x
 hiiamembership.x
 htmlpage.htm
@@ -6884,7 +6736,6 @@ nahicodeofethics.x
 nahimembership.x
 newsdetails.aspx
 oanda.aspx.vb
-oanda.js
 orderform.cfm
 orderinsp.x
 orderlist.aspx
@@ -7000,7 +6851,6 @@ ajax_bookmarks.php
 ajax_index.php
 albumall.php
 alertmod.asp
-all_funcs.inc.js
 alumni.cfm
 amazon.htm
 anfahrt.html
@@ -7042,7 +6892,6 @@ back.gif
 backup.html
 badwords.php
 banner.gif
-base.css
 base.htm
 basket-onchange.php
 basketchange.php
@@ -7155,7 +7004,6 @@ condizioni.html
 conf_global-bak.php
 config.dev
 config.ini.php
-config.js
 config2.php
 config_feed.php
 config_site.php
@@ -7176,7 +7024,6 @@ contactos.php
 contactresults.php
 contacts.aspx
 contattaci.html
-content.css
 content.xml
 control.html
 controlpanel.php
@@ -7218,7 +7065,6 @@ cvv_help.php
 cya.cgi
 d.gif
 danke.php
-datepicker.css
 datos.php
 db_updater.php
 dc.php
@@ -7266,7 +7112,6 @@ edit2.php
 edit_articl.php
 editdata.mso
 editor.asp
-editor.css
 editphoto.php
 editproduct.php
 ehosting.php
@@ -7317,7 +7162,6 @@ fail.html
 family.html
 famlist.php
 faq-info-19.html
-faq.
 fashion.html
 fav_popup.php
 favorite_add.php
@@ -7342,11 +7186,9 @@ flyer.php
 folder.gif
 folder.php
 food.html
-footer.js
 footer.jsp
 footer_inc.php
 forgotpassword.jsp
-form.js
 forma.php
 formmail.asp
 formpres.html
@@ -7459,7 +7301,6 @@ index-page.html
 index-temp.php
 index.page
 index.php.sample
-index.rss
 index.ssf
 index1.shtml
 index10.html
@@ -7521,8 +7362,6 @@ item.html
 items.php
 itrader_detail.php
 java.php
-jquery-1.3.2.min.js
-js.js
 jv.html
 kassa.php
 kb_search.php
@@ -7550,7 +7389,6 @@ lib.php
 libraries.asp
 licence.html
 license.pdf
-lightbox.css
 link-exchange.html
 link-unit.php
 link.cfm
@@ -7574,7 +7412,6 @@ lnk.php
 load.asp
 loader.cfm
 loading.gif
-local.css
 local_links.php
 localeselect.jsp
 location.asp
@@ -7617,7 +7454,6 @@ management.php
 manual.html
 manual.php
 market.html
-master.css
 mb.php
 medals.php
 media-upload.php
@@ -7636,7 +7472,6 @@ membership-card.php
 membership.asp
 membres.php
 mentions.html
-menu2.js
 merkliste.php
 message.htm
 meta.txt
@@ -7810,7 +7645,6 @@ port.php
 portal.html
 portfolio.htm
 post_info.php
-postcard.
 postcard.htm
 postinfo.htm
 postlist.php
@@ -7957,12 +7791,10 @@ savedsearches.aspx
 school.asp
 scores.php
 screenshots.php
-scriptaculous.js
 search-1.php
 search-2.html
 search-advanced.asp
 search-engine.php
-search.css
 search.swf
 search.txt
 search2.htm
@@ -7976,7 +7808,6 @@ searchlog.asp
 searchx.php
 secure_buy.asp
 segnala.php
-sendtomobile.ds
 sendbinary.asp
 sendcard.php
 sendform.php
@@ -8026,13 +7857,11 @@ sistemazioni.php
 site-map.aspx
 site-map.php
 site-search.html
-sitemap.css
 sitemap2.php
 sitesearch.asp
 sitesearch.html
 siteunder.jsp
 sizechart.aspx
-slideshow.js
 slogin_account.html
 slogout.html
 smail.php
@@ -8047,8 +7876,6 @@ sponsors.html
 sports.aspx
 sports.php
 srch.php
-ssm.js
-ssmitems.js
 staff-login.php
 staff.htm
 standard.php
@@ -8060,12 +7887,10 @@ statistiche.php
 statistiques.php
 stats_script.aspx
 step2.asp
-stm31.js
 storefront.aspx
 story.html
 students.aspx
 students.html
-stylesheet2.css
 subcategory.aspx
 submission.php
 submitarticles.php
@@ -8105,7 +7930,6 @@ toolkit.php
 tools.htm
 top-links.html
 top_votes.php
-topmenu.js
 tos.aspx
 total.html
 tou.php
@@ -8217,7 +8041,6 @@ wpad.dat
 ws.php
 wsaffil.cgi
 wso.html
-wz_tooltip.js
 xml.asp
 xmlrpc-2.0
 xpathtest2.php
@@ -8234,9 +8057,7 @@ zoom.html
 zoominfo.aspx
 .access.php
 .contactemail
-.cpaddons
 .dev
-.docs
 .f
 .htuser
 .index.php
@@ -8252,12 +8073,9 @@ zoominfo.aspx
 .sqmailattach
 .system
 .temp
-.templates
 .top.menu.php
 .xlsx
 1.2
-1.css
-1.js
 1.pdf
 100.htm
 107.htm
@@ -8458,7 +8276,6 @@ archbefore.cfm
 archfind.cfm
 bvframe.aspx
 bvsandbox.aspx
-base.skins
 bennar.php
 buildbidreq.cfm
 buildbcastemail.cfm
@@ -8541,7 +8358,6 @@ itemdetails.aspx
 jobzonenad.aspx
 jshandler.asp
 lb-monitoring.html
-linkclick.
 linkexchange.aspx
 linktopage.aspx
 listinghandler.c
@@ -8633,7 +8449,6 @@ slim10.html
 snippet.ashx
 softcart.exe
 specialpages.aspx
-st.
 staff.aspx
 step1.aspx
 stop-google.htm
@@ -8845,7 +8660,6 @@ authconfig.php
 authnetpost.aspx
 author.asp
 avatar_upload.asp
-avertissement.js
 avis_produit.php
 awards.asp
 away.htm
@@ -8898,7 +8712,6 @@ blank_config.php
 blocked.html
 blog.cfm
 blogsession.jsp
-body.css
 body.html
 boeking.html
 bonuses.html
@@ -8911,7 +8724,6 @@ box.gif
 breadcrumbs.xml
 brochure.pdf
 browsefile.cfm
-browsercheck.min.js
 browserinfo.asp
 budget.php
 bugs.php
@@ -9019,7 +8831,6 @@ classifieds.php
 clc.php
 clear_cache.cfm
 click-n-vote.aspx
-click2call.ds
 click_banner.php
 click_log.php
 clickthrough.asp
@@ -9043,7 +8854,6 @@ comment_add.php
 comment_post.php
 commentaires.php
 commentblock.jsp
-common.css
 common.html
 common.inc
 community.aspx
@@ -9105,11 +8915,8 @@ cookie.txt
 cookietest.asp
 coordonnees.php
 copy.htm
-copyright.js
 copyrights.html
 count.htm
-count.js
-countdown.js
 counter.cgi
 counter.shtml
 counters.php
@@ -9191,7 +8998,6 @@ dining.aspx
 directions.aspx
 directory.bml
 discl.htm
-disclaimer.js
 disclosures.htm
 discount.htm
 dispatch.cgi
@@ -9215,15 +9021,12 @@ downloader.php
 downloadfile.php
 downloads.cfm
 dp_jsrssvr.cfm
-dp_style.css
 driver.aspx
-dropdown.js
 druckversion.php
 dummy.htm
 dvd.html
 dwebservicegfs.php
 dynamic.php
-dynamic_mopics.css
 epaymenterror.aspx
 epaymentinit.aspx
 etarget.aspx
@@ -9240,10 +9043,8 @@ edit1.php
 editpost.html
 education.htm
 education.php
-effects.js
 eintragen.php
 elmah.axd
-email-article.
 email-template.html
 email.txt
 email_a_friend.asp
@@ -9281,7 +9082,6 @@ err.php
 erreur404.html
 error-404.php
 error-send.html
-error.
 error.log.0
 error.txt
 error403.htm
@@ -9296,7 +9096,6 @@ es.php
 espace_perso.html
 espanol.htm
 estadisticas.php
-etc.
 eula.html
 europe.htm
 event.html
@@ -9305,7 +9104,6 @@ events.cfm
 events4.nsf
 excerpts.xml
 exchange.asp
-exmplmenu_var.js
 expand_control.cfm
 expand_listloop.cfm
 expand_menu.cfm
@@ -9375,7 +9173,6 @@ forgotpassword.html
 forgotpass.asp
 form.jsp
 form.txt
-form.xls
 form1.aspx
 form2mail.php
 form3.php
@@ -9415,7 +9212,6 @@ functions_zip.php
 fwuam-stub.php
 g2.htm
 g2y.php
-ga.js
 galeria.aspx
 galerias.php
 gallery.cfm
@@ -9425,7 +9221,6 @@ gate.php
 gateway.htm
 gb.txt
 gedcom.php
-general.css
 generics-us.html
 genlib.php
 get1.php
@@ -9483,7 +9278,6 @@ headline.php
 headstones.php
 health.asp
 help-faqs.html
-help.css
 help_government.asp
 help_order.asp
 help_payment.asp
@@ -9495,7 +9289,6 @@ history.txt
 hitcount.php
 holiday.htm
 home.feed
-home.js
 homebuyer.x
 homepage.aspx
 host.htm
@@ -9550,7 +9343,6 @@ index-new.asp
 index-new.htm
 index-test.asp
 index-v.php
-index.aspx.cs
 index.nsf
 index.php.static
 index.sema
@@ -9632,7 +9424,6 @@ izle.php
 jalis.php
 java.html
 javascripts.asp
-jcap.js
 jobdetails.asp
 jobdetails.php
 jobs.xml
@@ -9643,9 +9434,7 @@ join_group.php
 joinrequests.html
 jokes.html
 jp.php
-js.scripts
 jslanguages.asp
-jsclone.js
 jump.cfm
 jump.jsp
 jungle.htm
@@ -9678,7 +9467,6 @@ lianxi.html
 library.htm
 license.inc
 lieferadresse.html
-lightbox.js
 lightspeed.php
 like_pages.php
 limit.php
@@ -9697,7 +9485,6 @@ linklokme.php
 linklokmeret.php
 linkpartners.html
 linkpartners.php
-links.js
 links.jsp
 links.phtml
 links1.asp
@@ -9790,12 +9577,10 @@ memberlogin.php
 member_company.php
 member_login.html
 member_personal.php
-memberlist.
 members_area.php
 menu.inc
 menu.xml
 menu2.html
-menu3.js
 menutoadmin.cfm
 menufooter.cfm
 menuheader.cfm
@@ -9809,7 +9594,6 @@ message2.php
 messagelist.jsp
 metadata.xml
 mgc_cb_evo_ajax.php
-mime.types
 minus.gif
 mirror.php
 misc.htm
@@ -9818,9 +9602,6 @@ mju.swf
 mkstats2.3
 mlsdetails.asp
 mlsgrid.asp
-mm_css_menu.js
-mmenudom.js
-mmenuns4.js
 mms.php
 mobile.asp
 modif.php
@@ -9828,7 +9609,6 @@ modify.htm
 mon-compte.php
 monitor.jsp
 monitor.php
-mootools.js
 more_image.php
 moreinfo.htm
 morelinks.php
@@ -10031,7 +9811,6 @@ person.asp
 pet.php
 pets.html
 pgbar.php
-phone.js
 photo.aspx
 photo_comments.php
 photos.cfm
@@ -10088,7 +9867,6 @@ press_release.aspx
 presskit_pdf.cfm
 previous.gif
 pricelist.html
-print-article.
 print-article.aspx
 print-catalog.php
 print_blog_post.php
@@ -10203,7 +9981,6 @@ regions.html
 regist.cgi
 regist.html
 regist.php
-register.
 register.action
 register.php3
 register_stats.php
@@ -10240,7 +10017,6 @@ reservations.asp
 reserve.php
 reset-password.php
 reset.aspx
-reset.css
 reset_password.html
 resource.aspx
 resources.cfm
@@ -10267,7 +10043,6 @@ rights.html
 rma_step1.php
 robot.php
 robox.php
-rollover.js
 roof.html
 route.html
 router.php
@@ -10316,9 +10091,7 @@ schnellsuche.php
 schreiben.php
 science.html
 scrap.cfm
-screen.css
 scripts.htm
-scroll.js
 search-2.php
 search-all.php
 search.ep
@@ -10415,7 +10188,6 @@ showsearch.php
 showtopic.php
 showurl.asp
 showuser.php
-sidebar.js
 sign-in.aspx
 sign_in.php
 signon.aspx
@@ -10446,7 +10218,6 @@ size_chart.html
 skimain.asp
 skimain_gb.asp
 skimain_gr.asp
-skin1.css
 sla.html
 slider.php
 sloth_admin.php
@@ -10459,7 +10230,6 @@ sms.aspx
 sms_vip.php
 so_settings.php
 softdown.asp
-softimg.js
 software.asp
 software.htm
 songs.php
@@ -10500,7 +10270,6 @@ stats.shtml
 status.asp
 step1.php
 step4.php
-stmenu.js
 stop.htm
 stop.php
 storage.php
@@ -10514,7 +10283,6 @@ study.html
 stuff.html
 style.css.php
 style.html
-style3.css
 styles.aspx
 stylesheet.php
 sub.html
@@ -10557,7 +10325,6 @@ tech.php
 technology.html
 tedstat.html
 temp.asp
-template.images
 template.jsp
 template.txt
 tentedit.php
@@ -10669,7 +10436,6 @@ upload_other.php
 upload_photo.php
 uploadfile.cfm
 ups.php
-urchin.js
 urlrewrite.php
 usc_statement.html
 used.htm
@@ -10819,7 +10585,6 @@ xindex.html
 xls.php
 xmas.html
 xmldatapull.aspx
-yahoo-dom-event.js
 yonlen.php
 yorum_ekle.php
 yorumlar.php
@@ -10847,18 +10612,12 @@ zsa2.cfm
 .adm
 .administration
 .backup
-.class
-.components
 .cpanel-ducache
-.credits
-.dada_files
 .docx
-.emacs
 .err
 .eshop
 .etc
 .external
-.files
 .flv
 .fm
 .ht
@@ -10872,17 +10631,14 @@ zsa2.cfm
 .msg
 .passwd
 .pl
-.ps
 .psd
 .remote
 .rm
 .shopsuite
 .systestperm.html
 .tar
-.tools
 .trattative
 0.gif
-000.css
 000.htm
 0001.html
 01.asp
@@ -10894,7 +10650,6 @@ zsa2.cfm
 08-08_babw_us.pdf
 09.pdf
 0_intro.gif
-1.
 1.aspx
 1.shtml
 102.htm
@@ -11177,7 +10932,6 @@ zsa2.cfm
 576.html
 581.html
 5b.html
-6.
 6.10
 6.jpg
 6.swf
@@ -11252,8 +11006,6 @@ awfpag.aspx
 awfpagcon.aspx
 awfped.aspx
 awfxxxcep.aspx
-about.aspx.cs
-aboutus.aspx.cs
 accountlogin.aspx
 act_adminemail.txt
 addcontent.aspx
@@ -11280,19 +11032,16 @@ backup.num
 banking.aspx
 bannerengine.htm
 bannerredirect.aspx
-base.controls
 belize.html
 bermuda.html
 block.aspx
 bookstep.aspx
 booksucceeded.aspx
 cms400min.suo
-csscriptlib.js
 cachecontrol.aspx
 calc1530.x
 calcarm.x
 calcarmvsfixed.x
-calendarpopup.js
 california.html
 cardentry.asp
 cartlogic.asp
@@ -11311,7 +11060,6 @@ christmas.htm
 cimke_index.php
 cleanserx.html
 clearance.aspx
-client.
 client.config
 comment.jsp
 commentview.aspx
@@ -11345,7 +11093,6 @@ directcountry.asp
 directhotel.asp
 displaygroup.aspx
 document.aspx
-dotnetnuke.webproj
 download.ashx
 downloadfile.aspx
 e5.htm
@@ -11360,7 +11107,6 @@ emailjob.aspx
 emailpage.htm
 empfehlen.aspx
 error500100.asp
-errorpage.aspx.cs
 errorpage.aspx.vb
 escape.html
 estadisticas.aspx
@@ -11371,7 +11117,6 @@ exceptionpage.aspx
 fckeditor3.1
 final.pdf
 ftpserver.aspx
-ftpserver.aspx.cs
 facebook.aspx
 fandetails.aspx
 feedbackform.aspx
@@ -11409,7 +11154,6 @@ home.mvc
 honeycard.aspx
 hoodiabites.html
 hotelinfo.aspx
-ind.
 ipnhandler.aspx
 identification.aspx
 imagevalidator.aspx
@@ -11429,7 +11173,6 @@ lanapcaptcha.aspx
 landingpage.asp
 leadinhome.x
 leaveresume.aspx
-leftnav.css
 legal.cfm
 lexus.html
 license.config
@@ -11440,7 +11183,6 @@ listerpage.aspx
 location.aspx
 locationsdtl.cfm
 locator.aspx
-login.aspx.cs
 loginerror.aspx
 loginsuccess.aspx
 mcil.nsf
@@ -11500,7 +11242,6 @@ portal.aspx
 postcomment.aspx
 postform.aspx
 postnewad2.aspx
-precision.
 printdetails.aspx
 processorder.aspx
 processing.aspx
@@ -11544,7 +11285,6 @@ scart.aspx
 scartconfirm.aspx
 scartend.aspx
 scartorder.aspx
-seoredirect.js
 savejob.aspx
 screenshot.aspx
 searchadminbox.php
@@ -11552,7 +11292,6 @@ segnala.aspx
 septicinspection.x
 service.asmx
 sessioncount.jsp
-setup.
 shibboleth.sso
 shipment.aspx
 showad.aspx
@@ -11567,7 +11306,6 @@ showpost.aspx
 showsoftdown.asp
 siteerror.aspx
 siteerror.htm
-sitemap.aspx.cs
 slideshow.aspx
 smarty-2.6.18
 smarty.class.php
@@ -11620,7 +11358,6 @@ wfpagconemail.aspx
 ws_ftp.log.new
 wait.aspx
 webform1.aspx.resx
-webnet.js
 wiki.ashx
 wishcartplus.aspx
 wishlistlookup.aspx
@@ -11649,7 +11386,6 @@ _phpinfo.php
 _play.cfm
 _porthu_popup.php
 _print.php
-_style.css
 _upload.asp
 a1.htm
 a3.htm
@@ -11758,15 +11494,12 @@ addrlookup.php
 addrsearch.php
 adds.html
 addsite.htm
-addthis_widget.js
 addtofavorites.php
 addtolist.php
 addtomail.htm
 adduser.cgi
 adimage.php
 admin-functions.php
-admin.
-admin.js
 admin.shtml
 admin_config.php
 admin_edit.php
@@ -11824,7 +11557,6 @@ air.html
 airports.html
 ajadfgdfgdx.php
 ajax-loader.gif
-ajax.
 ajaxloadtab.php
 ajaxmenu.jsp
 ajaxnav.jsp
@@ -11857,10 +11589,7 @@ alexa.html
 alexandra-quay.html
 algeciras.html
 alive.php
-all.css
 all.htm
-all.js
-all4.css
 all_emoticons.php
 allnews.html
 alphalist.asp
@@ -11899,12 +11628,10 @@ anotherfile.html
 antibac.php
 antibootimg.php
 antispam.html
-anylink.css
 aol.html
 apanel.php
 api_error.php
 apisphere.php
-app_offline.
 appartement.aspx
 appcenter.html
 apple_library.jhtml
@@ -11920,7 +11647,6 @@ apropos.php
 ar.aspx
 arcade.html
 arcadetourmnt.php
-archive.css
 archive2.php
 archive_f2.png
 archives.cfm
@@ -12022,7 +11748,6 @@ banner_link.htm
 banner_redir.cfm
 bannerfarm.php
 banners.cfm
-banners.js
 bar.htm
 bar.php
 barbie.html
@@ -12030,7 +11755,6 @@ barbour.php
 barska.php
 bas.php
 base.html
-base.js
 base.swf
 base.txt
 basic.htm
@@ -12106,8 +11830,6 @@ blogg.php
 bloggarkiv.php
 blogs_detalle.php
 bloque.php
-bm.assets
-bmclass.css
 boardpermission.asp
 boards.htm
 boardsearch.cfm
@@ -12162,7 +11884,6 @@ bug.php
 buglist.cgi
 bugs.html
 build_version.jhtml
-builder.js
 building.html
 bula.php
 bulletin.htm
@@ -12205,15 +11926,12 @@ cal.html
 cal_lite.php
 cal_popup.php
 calazo-forlag.php
-calc.css
 calculator.cfm
 calculator.swf
-calendar-setup.js
 calendar.pdf
 calendar_day.php
 calendar_week.php
 calendar_year.asp
-calender.js
 calendfdgdgdfar.php
 call.gif
 callaction.cfm
@@ -12239,7 +11957,6 @@ cap.asp
 capcha.php
 captchasignup.php
 captcha_test.php
-caption.js
 car_resources.php
 cards.html
 care.html
@@ -12274,7 +11991,6 @@ catalogue.asp
 cate.php
 categories.cfm
 categories.htm
-category.
 category.cgi
 category.htm
 category.jsp
@@ -12300,9 +12016,7 @@ cferror_request.cfm
 cgame.php
 cgi-lib.pl
 ch.aspx
-chainedselects.js
 change.html
-changecolor.vbs
 changepwd.asp
 changepass.php
 channel_detail.php
@@ -12369,7 +12083,6 @@ cleaner.php
 clearance.asp
 clearpixel.gif
 cli.php
-click.cms
 click.jsp
 click.jspa
 click2.php
@@ -12404,7 +12117,6 @@ collect.php
 collection.asp
 collections.html
 color.asp
-color.js
 color_invites.html
 colorado.html
 com.php
@@ -12500,7 +12212,6 @@ contactsend.php
 contactus2.cfm
 contactus_old.asp
 contadorimg.php
-container.css
 contao-check.php
 contato.asp
 contato.html
@@ -12518,7 +12229,6 @@ control.aspx
 controlcenter.php
 controller.aspx
 controller.jsp
-controls.js
 conversion.htm
 convertpdf.php
 conveyor-quay.html
@@ -12526,9 +12236,7 @@ cook.php
 cookie-policy.aspx
 cookie_detect.asp
 cookies.aspx
-cookies.js
 copyright.cfm
-core.js
 coretracking.php
 corporate.php
 corporations.php
@@ -12609,13 +12317,9 @@ database_tables.php
 dataenter.php
 datafeed.htm
 datasource.php
-date-picker.js
-date-time.js
 dateinput.php
 daten.php
 datenbank.php
-datestamp.js
-day.listevents
 db.class.php
 db_error.html
 db_fns.php
@@ -12632,7 +12336,6 @@ debug.log
 dedicated.php
 default-test.aspx
 default.jpg
-default.js
 default.shtml
 default.txt
 default.xml
@@ -12686,7 +12389,6 @@ dettaglio.aspx
 deuter.php
 deutsch.php
 devices.php
-dialog.css
 dialogue.htm
 diamond-search.html
 diary.cgi
@@ -12726,7 +12428,6 @@ diy.html
 dl_attachment.php
 dle-rules-page.html
 dlegrubber.php
-dosubmit.vbs
 dobsom.php
 doc.aspx
 doc.html
@@ -12752,9 +12453,6 @@ download-now.php
 download.jsp
 download_files.php
 dpu_ajax.php
-dqm_ns.js
-dqm_ns6.js
-dqm_script.js
 dr.html
 dressme.cfm
 driver2.aspx
@@ -12767,7 +12465,6 @@ druhy-plateb.htm
 dsiejflfdjf.html
 dsoidhfds.html
 dtlimg.php
-dtree.js
 dvd.php
 dwnld.php
 dynamika-plateb.htm
@@ -12829,7 +12526,6 @@ email-friend.v
 email-sent.php
 email-signup.html
 email-to-friend.asp
-email.js
 email.jspa
 email.png
 email3.html
@@ -12858,7 +12554,6 @@ embassy-list.php
 embedmod.php
 emergency.htm
 emergency.html
-eml.js
 employees.html
 empresa.php
 empty.gif
@@ -12867,7 +12562,6 @@ encrypt.php
 end.asp
 endsession.php
 enews.html
-engine.js
 engineversion.asp
 english.htm
 enquiries.php
@@ -12912,7 +12606,6 @@ errors.log
 es.html
 esbit.php
 est_detail.php
-estilo.css
 eta-duplicate.php
 eta-error.php
 eta-incomplete.php
@@ -12928,7 +12621,6 @@ evaluate.php
 evaluation.html
 evdays.cfm
 event-map.asp
-event.cms
 eventdetail.aspx
 eventi.php
 examindex.asp
@@ -12946,7 +12638,6 @@ expert_advice.html
 expired.html
 explanation.html
 explore.php
-explorer1.css
 export.cgi
 export_termin.php
 exportligen.php
@@ -12988,7 +12679,6 @@ faxform.htm
 faxform.html
 fbconnect.php
 fblogin.php
-fckconfig.js
 fckeditor.html
 fckstyles.xml
 fcktemplates.xml
@@ -13025,7 +12715,6 @@ firma.php
 firmen_export.php
 fishing.htm
 fivefingers.php
-fixit.js
 fjallraven-talt.php
 fjallraven.php
 fl.php
@@ -13069,7 +12758,6 @@ form_contact.php
 form_error.php
 form_results.txt
 forma.html
-formate.css
 formpost.asp
 formrslt.txt
 formtest.html
@@ -13128,7 +12816,6 @@ function.join
 functions.inc.php
 funk.php
 fussnavi.php
-fw_menu.js
 fwd.php
 g1.htm
 ga.html
@@ -13163,7 +12850,6 @@ gd.php
 gebuehren_druck.php
 gehezu.php
 gen_amazon.php
-gen_validatorv2.js
 general.asp
 generic.asp
 generic_search.html
@@ -13189,7 +12875,6 @@ gettrial.aspx
 geturl.php
 getversion.php
 gewinnspiel.php
-gfeedfetcher.js
 gforum.cgi
 gg.html
 ghana-visa.php
@@ -13218,7 +12903,6 @@ goals.php
 goaway.php
 gococo.php
 gogirl.php
-gohome.js
 gold.html
 golf.html
 golite.php
@@ -13249,7 +12933,6 @@ gr.php
 grab.php
 granitbiten.php
 gransfors.php
-graph.js
 grazie.asp
 grazie.htm
 grazie.php
@@ -13300,8 +12983,6 @@ hardware.php
 hata.asp
 hata.html
 hata.php
-hbx.js
-header.css
 header.gif
 header.jspf
 header_https.jspf
@@ -13316,7 +12997,6 @@ hello-world.html
 hello.html
 hellomister.html
 helly-hansen.php
-help.js
 help.php3
 help.shtml
 help11.asp
@@ -13357,7 +13037,6 @@ hotel_listings.php
 hotel_photos.php
 hotelpage.htm
 hotels.aspx
-hotlinking.js
 hots.php
 houdini.php
 house.asp
@@ -13366,7 +13045,6 @@ hr.aspx
 hs.php
 hssivu.asp
 htlp.html
-html.cms
 html_f2.png
 htmlos.cgi
 http404.htm
@@ -13388,8 +13066,6 @@ ideas.php
 identify.php
 idiomas.cfg
 idverify.aspx
-ie6.css
-ieupdate.js
 iframe.asp
 iframe.do
 iframe.htm
@@ -13399,7 +13075,6 @@ ignore.html
 iindex.php
 ikonboard.cgi
 image.cgi
-image.cms
 image2.php
 imagecache.php
 imagedisplay.jsp
@@ -13445,7 +13120,6 @@ index.html_
 index.jpg
 index.php.bak
 index.php.old
-index.php_files
 index.pnp
 index.tmp.php
 index.wml
@@ -13553,17 +13227,14 @@ install-cache.php
 install-helper.php
 install-seo.php
 install-utils.inc
-install.css
 install.old
 installation.php
-intact.
 inter.php
 interaction.php
 interest.htm
 interests.php
 interim.html
 interior.php
-internationally.
 internships.html
 interview.php
 into.php
@@ -13604,7 +13275,6 @@ jak-rezervovat.htm
 jak-rezerwowac.htm
 janr.php
 javascript.cfm
-javascripts.js
 javatosql.php
 jeux.php
 jewelry.html
@@ -13627,13 +13297,7 @@ journal_proc.php
 jp.htm
 jpgraph-2.2
 jpgraph-2.3.3
-jquery-1.3.2
-jquery-1.4.2.min.js
-js.cms
 js.html
-js1.js
-js2.js
-js5.js
 jsptest.jsp
 jukebox.html
 julbo.php
@@ -13816,7 +13480,6 @@ livetv.html
 livredor.php
 lnkrd.php
 load_stocks.php
-loader.js
 loan.html
 loan.php
 local.htm
@@ -13864,7 +13527,6 @@ luxembourg.html
 lyrics.php
 m-results.jsp
 m.asp
-m.css
 m12_cart.html
 m12_gift_giver.html
 m12_gift_list.html
@@ -13945,7 +13607,6 @@ manager.cgi
 maofbiz.htm
 map.cfm
 map.gif
-map.js
 map.pdf
 map.swf
 map.xml
@@ -13978,7 +13639,6 @@ masteranswer.php
 matching.html
 math.html
 mawhole.php
-maxheight.js
 may.html
 mba.html
 md5.asp
@@ -14001,7 +13661,6 @@ menu-header.php
 menu.shtml
 menu1.html
 menu9_com.cfm
-menu_data.js
 menubar.php
 menue.htm
 menugen.aspx
@@ -14026,13 +13685,11 @@ mh.asp
 michigan.html
 milando.php
 military.html
-milonic_src.js
 mime.php
 min_order_b2b.php
 mina-sidor.php
 mindwerkfooter.php
 mini.cgi
-minishopcart.jspf
 mirror.htm
 misc.cgi
 miscellaneous.php
@@ -14072,13 +13729,11 @@ morenow.php
 mortgage.asp
 mortgage.php
 mountain-works.php
-mouseover.js
 moved.asp
 movies.htm
 moving.htm
 mp3.html
 mp3player.swf
-msn.js
 mso.flv
 msr.php
 mt-example.net
@@ -14131,7 +13786,6 @@ nacini-placanja.htm
 nalgene.php
 napoveda.xhtml
 natural.htm
-nav.js
 nav.txt
 nav_bar_ad.php
 nav_basket.php
@@ -14168,7 +13822,6 @@ newproducts.html
 news-room.php
 news.cgi
 news.nsf
-news.rss
 news.swf
 news.xsl
 news1.htm
@@ -14176,7 +13829,6 @@ news2.html
 news2.php
 news3.html
 news_1.php
-news_comment.js
 news_detail.asp
 news_edit.asp
 news_full.php
@@ -14184,7 +13836,6 @@ news_list.asp
 news_more.asp
 news_popup.php
 news_show.asp
-news_view.js
 news_win.htm
 newsarchive.html
 newsarchive.php
@@ -14242,7 +13893,6 @@ note.asp
 notepad.htm
 notepad.html
 nothappy.php
-nothing.
 nothing.html
 notice.htm
 notifier.php
@@ -14292,8 +13942,6 @@ online.dat
 online_list.php
 onsite-services.php
 oops.shtml
-open.gif
-open.js
 open_adress.php
 open_contact.php
 openpic.php
@@ -14366,7 +14014,6 @@ outlinks.php
 outnet-tipsar.php
 outputpdf.php
 overallfooter.php
-overlib_mini.js
 overseas.html
 overstock.html
 overview.asp
@@ -14404,7 +14051,6 @@ page-37.htm
 page-39.htm
 page-about.html
 page-new.php
-page.includes
 page12.html
 page14.html
 page17.html
@@ -14517,7 +14163,6 @@ pictures.shtml
 piecemaker.xml
 piege.cgi
 pinfo.php
-ping.cms
 ping.htm
 ping_session.jsp
 pisa.html
@@ -14571,7 +14216,6 @@ pop_messengers.asp
 pop_multi_view.asp
 popular.html
 popunder.php
-popup.css
 popup1.htm
 popup2.php
 popupimage.php
@@ -14580,7 +14224,6 @@ popup_contact.php
 popup_photo.php
 popup_prodejna.php
 popup_promo.php
-portal.css
 portal_upload.html
 portfolio3.html
 portfolio5.html
@@ -14598,11 +14241,9 @@ postcards.html
 poster.pdf
 posters.asp
 posters.php
-posting.
 postkarte.php
 postmail.html
 postops.php
-posts.rss
 power.html
 powered_by.png
 powerpack.php
@@ -14673,7 +14314,6 @@ privacy.txt
 privacybeleid.html
 privatemess.asp
 privatschutz.htm
-privmsg.
 pro.asp
 problems.html
 process_address.php
@@ -14691,7 +14331,6 @@ prodlist.asp
 prodsearch.asp
 prodinfo.asp
 prodotti.html
-product.js
 product2.aspx
 product2.htm
 product2_ext.cfm
@@ -14772,7 +14411,6 @@ publish_f2.png
 publish_x.png
 publisher.php
 pui_link.html
-purposes.
 push.php
 pwhelp.html
 pzoaenthl.php
@@ -14818,7 +14456,6 @@ rate_tools.php
 rates.asp
 rates.htm
 rating.aspx
-rating_1_over.
 raw.php
 rayban.html
 razdel.php
@@ -14863,13 +14500,11 @@ recruit.php
 recrutement.php
 red1.php
 redir_frame.cfm
-redirect.js
 redirect.shtml
 redirect.tpl
 redirect_shop.php
 redirection.html
 ref.htm
-ref.js
 refer.asp
 refer.cgi
 refer.htm
@@ -15040,7 +14675,6 @@ revision.php
 rezervare.html
 rezerwuj.html
 rgo.php
-right.js
 rightbar.php
 ringetone.php
 risultati.php
@@ -15058,7 +14692,6 @@ rpc_server.php
 rrtarif.htm
 rsd.axd
 rss-parser.php
-rss.css
 rss.htm
 rss.xml.asp
 rss2.xml
@@ -15071,7 +14704,6 @@ rssfeed_gs.php
 rssmap.html
 rsvp.php
 rsyes.php
-run_1.js
 rupay.php
 rush.html
 russia-visa.php
@@ -15120,10 +14752,8 @@ schools.cfm
 schowek.php
 science.php
 screenshots.html
-script.
 scroll_back.php
 scroller.html
-scroller.js
 sea-to-summit.php
 sealskinz.php
 search-3.php
@@ -15131,7 +14761,6 @@ search-result.html
 search-result.php
 search-results.jsp
 search.asmx
-search.ds
 search.gif
 search.jpg
 search.nsf
@@ -15270,7 +14899,6 @@ shipping_info.php
 shippinginfo.php
 shipto.asp
 shoes.html
-shop.css
 shop.dll
 shopquestions.aspx
 shop_cart.php
@@ -15289,14 +14917,12 @@ shopping_cart.cfm
 shopping_cart.htm
 shopping_cart.jsp
 shoppingcart.cfm
-shoppingcart.wws
 shops_abfragen.php
 shopwishlist.asp
 shortcut.html
 show-url.php
 show.swf
 showcaptcha.cfm
-show_ads.js
 show_article.php
 show_cat3.php
 show_interest.php
@@ -15376,8 +15002,6 @@ slide1.aspx
 slide2.aspx
 slide3.aspx
 slide4.aspx
-slider.js
-slider.swf
 slideshow.asp
 slideshow.htm
 slideshow.html
@@ -15468,7 +15092,6 @@ startseite.php
 stat.txt
 stat_direct.php
 state.html
-statement.
 statement.htm
 statement.html
 states.php
@@ -15481,13 +15104,9 @@ stats_detail.php
 status-check.php
 status.jsp
 statuslogin.asp
-stcode.js
 stdbuttons.php
 stdincludes.php
 stefan.php
-steffie.js
-steffrect.js
-steffslip.js
 step3.html
 step5.php
 step_1.gif
@@ -15498,11 +15117,9 @@ step_3.gif
 step_4.gif
 step_5.gif
 steve.jpg
-stilo.
 stock.asp
 stocks_loader.php
 stopwords.txt
-store.css
 store_rss.aspx
 story-email.php
 story-favorites.php
@@ -15520,14 +15137,8 @@ student.html
 students.php
 stuff.htm
 stuff.txt
-style-sm.css
 style.txt
-style5.css
-styleinner.css
-styles1.css
 stylesheet.cfm
-stylesheet1.css
-styleswitcher.js
 su.php
 sua_body.php
 submenucontents.htm
@@ -15611,8 +15222,6 @@ t-security.aspx
 t.aspx
 t2keyquery.php
 t2kwquery.php
-tabcontent.css
-tabcontent.js
 tabelle_print.php
 table2.php
 tac.htm
@@ -15658,7 +15267,6 @@ temp.cfm
 temp2342.htm
 template.maximize
 template.ndm
-template.css
 template.dwt
 template1.php
 template2.htm
@@ -15679,7 +15287,6 @@ termos.php
 terms.txt
 terms_print.html
 termsofuse.cfm
-test.aspx.cs
 test.fcgi
 test.inc
 test.log
@@ -15716,19 +15323,15 @@ thankyou1.php
 thankyou6.htm
 thawte.html
 the-north-face.php
-them.
-theme.css
 therm-ic.php
 thermarest.php
 thermometer.php
-thickbox.css
 thread.jspa
 three.php
 thumbfinder.php
 thumbs.aspx
 tick.png
 ticker.html
-ticker.js
 ticker.swf
 tickercontent.txt
 tickets.aspx
@@ -15755,7 +15358,6 @@ today.cgi
 todo.html
 todo.txt
 tool.php
-tooltip.js
 top-1.html
 top-listings.html
 top-rank.html
@@ -15814,7 +15416,6 @@ track_order.php
 track_url.php
 trackback.axd
 tracking.htm
-tracking.js
 trackorder.php
 tracks.php
 trade.cgi
@@ -15948,7 +15549,6 @@ uservote.php
 ushop.php
 usuario.php
 utile.php
-utilities.js
 uye.php
 uyelik.asp
 uyeol.html
@@ -15963,7 +15563,6 @@ valid-xhtml.html
 validate.cfm
 validate.htm
 validate.jsp
-validatefield.vbs
 validation.html
 values.php
 vam_rss2_info.php
@@ -16067,11 +15666,9 @@ vostanovlenie.html
 vote_frame.php
 votec_no.php
 voting.htm
-vs.js
 vs.php
 vsyes.php
 w-results.jsp
-w.
 w2dcpimg.php
 w_search.php
 wait.htm
@@ -16145,7 +15742,6 @@ why_register.jhtml
 whyshop.html
 wi-fi-zone.html
 widget.html
-widget.js
 wiki.phtml
 wild-country.php
 wildlife.php
@@ -16170,9 +15766,7 @@ workfunction.php
 workshops.html
 world.html
 world.php
-wp-admin.css
 wp-chunk.php
-wp-login.
 wp-mce-help.php
 wp-postratings.php
 wp.old
